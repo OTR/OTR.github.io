@@ -1,0 +1,15 @@
+title: Andrew SWE
+description: Andrew's Software Engineering blog
+lang: en-US
+mode: dark
+remote_theme: piharpi/jekyll-klise
+
+author:
+  name: Andrew
+  bio: Backend, Kubernetes and GPU infrastructure.
+  github: OTR
+  avatar: /assets/img/avatar.jpg
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap

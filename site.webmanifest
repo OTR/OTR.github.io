@@ -1,0 +1,11 @@
+{
+  "name": "Andrew SWE",
+  "short_name": "Andrew SWE",
+  "icons": [
+    { "src": "/icon.svg", "type": "image/svg+xml", "sizes": "any" },
+    { "src": "/icon-512.png", "type": "image/png", "sizes": "512x512" }
+  ],
+  "theme_color": "#202124",
+  "background_color": "#202124",
+  "display": "standalone"
+}
